@@ -8,6 +8,7 @@ plugins {
 }
 
 
+
 sonarqube {
   properties {
     property "sonar.projectKey", "backend-api"
